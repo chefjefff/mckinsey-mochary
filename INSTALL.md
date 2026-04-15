@@ -21,8 +21,8 @@ Pick the level that matches how deep you want to go.
 ### Step 1 — Get the files
 
 ```bash
-git clone https://github.com/chefjefff/mckinsey.git
-cd mckinsey
+git clone https://github.com/chefjefff/mckinsey-mochary.git
+cd mckinsey-mochary
 ```
 
 Or download as a ZIP from the GitHub repo page and extract.
@@ -36,14 +36,14 @@ Copy the three skill directories into your Claude Code skills folder.
 ```bash
 # From the root of the project you want to install into
 mkdir -p .claude/skills
-cp -r /path/to/mckinsey/skills/* .claude/skills/
+cp -r /path/to/mckinsey-mochary/skills/* .claude/skills/
 ```
 
 **For a global install** (skills apply to every Claude Code session):
 
 ```bash
 mkdir -p ~/.claude/skills
-cp -r /path/to/mckinsey/skills/* ~/.claude/skills/
+cp -r /path/to/mckinsey-mochary/skills/* ~/.claude/skills/
 ```
 
 **For a Claude Code plugin** (distribute to a team):
@@ -77,7 +77,7 @@ MEMORY_DIR=~/.claude/projects/-Users-you-my-project/memory
 mkdir -p "$MEMORY_DIR"
 
 # Copy the memory file
-cp /path/to/mckinsey/memory/feedback_how_we_work_triad.md "$MEMORY_DIR/"
+cp /path/to/mckinsey-mochary/memory/feedback_how_we_work_triad.md "$MEMORY_DIR/"
 
 # Update the MEMORY.md index
 cat >> "$MEMORY_DIR/MEMORY.md" << 'EOF'

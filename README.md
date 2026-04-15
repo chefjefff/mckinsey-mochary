@@ -13,9 +13,9 @@
 **📦 Three Claude Code skills that force McKinsey-grade rigor on every AI output.**
 
 ```bash
-git clone https://github.com/chefjefff/mckinsey.git
-cp -r mckinsey/skills/* ~/.claude/skills/
-# Paste mckinsey/CLAUDE.md into your project's CLAUDE.md
+git clone https://github.com/chefjefff/mckinsey-mochary.git
+cp -r mckinsey-mochary/skills/* ~/.claude/skills/
+# Paste mckinsey-mochary/CLAUDE.md into your project's CLAUDE.md
 # Done. Your AI agents now default to the triad.
 ```
 
@@ -203,13 +203,13 @@ mckinsey/
 
 ```bash
 # 1. Clone this repo (or download the files)
-git clone https://github.com/chefjefff/mckinsey.git
+git clone https://github.com/chefjefff/mckinsey-mochary.git
 
 # 2. Copy the skills into your Claude Code skills directory
-cp -r mckinsey/skills/* ~/.claude/skills/
-# (or for a project-local install: mkdir -p .claude/skills && cp -r mckinsey/skills/* .claude/skills/)
+cp -r mckinsey-mochary/skills/* ~/.claude/skills/
+# (or for a project-local install: mkdir -p .claude/skills && cp -r mckinsey-mochary/skills/* .claude/skills/)
 
-# 3. Paste the contents of mckinsey/CLAUDE.md into your project's CLAUDE.md (at the top)
+# 3. Paste the contents of mckinsey-mochary/CLAUDE.md into your project's CLAUDE.md (at the top)
 ```
 
 That's it. Your AI agents now default to the triad.
