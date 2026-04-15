@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code local state (these should not be committed)
+.claude/
+CLAUDE.local.md
+
+# Temp / logs
+*.log
+*.tmp
+.cache/
+
+# Node / package managers (in case anyone adds tooling later)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
