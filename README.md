@@ -230,7 +230,7 @@ That's it. Your AI agents now default to the triad.
 
 **What's original:** the recognition that these three disciplines form a complete operating triad, the packaging into portable skill files, the integration into Claude Code, and the insight that AI agents need these disciplines *more* than human-only teams (because they can produce plausible-but-hollow outputs at scale).
 
-**License:** Free to use, modify, share, or deploy commercially. No attribution required to me. But please credit Conn, McLean, and Mochary if you publish derivatives — this is their work standing on their shoulders.
+**License:** MIT — free to use, modify, share, or deploy commercially. No attribution required to me. But please credit Conn, McLean, and Mochary if you publish derivatives — this is their work standing on their shoulders. Full attribution in [`ATTRIBUTION.md`](./ATTRIBUTION.md).
 
 ---
 

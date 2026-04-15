@@ -19,22 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## A note on source material
-
-This repository packages publicly-available frameworks into a portable format:
-
-- The `/problem-solving` skill is distilled from Charles Conn and Robert McLean,
-  *Bulletproof Problem Solving: The One Skill That Changes Everything* (Wiley, 2019).
-  Please buy the book if the framework is useful to you.
-
-- The `/mochary-method` skill is distilled from Matt Mochary's *The Great CEO Within*
-  and the open-source Mochary Method Curriculum (https://mocharymethod.com/).
-
-- The `/work-plan` skill is Step 4 of the Conn & McLean framework, extracted as standalone.
-
-The MIT license applies to the packaging, synthesis, and integration choices in this
-repository. The underlying intellectual frameworks belong to their authors. If you
-publish derivatives, please credit Conn, McLean, and Mochary explicitly.
